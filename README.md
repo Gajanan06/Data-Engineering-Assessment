@@ -290,7 +290,7 @@ or manually
 
       python scripts/analytics.py
 
-5️⃣ Run Analytics -
+5️⃣ Run Analytics_charts -
 
       python scripts/analytics_charts.py
 
