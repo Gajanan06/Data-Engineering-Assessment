@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Firebase keys
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output folders (optional)
+output/
