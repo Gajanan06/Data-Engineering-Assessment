@@ -5,7 +5,7 @@ import os
 # Input paths
 recipes_path = "input/recipe.json"
 interactions_path = "input/interactions.json"
-users_path = "input/users.json"     # ⭐ ADDED
+users_path = "input/users.json"     
 
 # Output folder
 os.makedirs("output", exist_ok=True)
@@ -17,7 +17,7 @@ with open(recipes_path, "r") as f:
 with open(interactions_path, "r") as f:
     interactions = json.load(f)
 
-with open(users_path, "r") as f:     # ⭐ ADDED
+with open(users_path, "r") as f:     
     users = json.load(f)
 
 # ------------ USERS TABLE ---------------------
