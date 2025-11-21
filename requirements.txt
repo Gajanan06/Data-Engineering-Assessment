@@ -1,0 +1,6 @@
+pandas==2.2.0
+firebase-admin==6.3.0
+matplotlib==3.8.2
+google-cloud-firestore==2.13.0
+numpy==1.26.3
+python-dateutil==2.9.0.post0
