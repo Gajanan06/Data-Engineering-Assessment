@@ -14,18 +14,18 @@
 ---
 
 ## 📑 Table of Contents
-- [🚀 Project Overview](#project-overview)
-- [🏗 Architecture](#architecture)
-- [📁 Project Structure](#project-structure)
-- [📦 1. Data Model Overview](#1-data-model-overview)
-- [🔥 2. Firebase Source Setup](#2-firebase-source-setup)
-- [⚙️ 3. ETL Pipeline](#3-etl-pipeline)
-- [🧹 4. Data Quality Validation](#4-data-quality-validation)
-- [📊 5. Analytics & Insights](#5-analytics--insights)
-- [📈 Charts](#charts)
-- [▶️ How to Run](#how-to-run)
-- [⚠️ Known Limitations](#known-limitations)
-- [🎯 Conclusion](#conclusion)
+- 🚀 Project Overview
+- 🏗 Architecture
+- 📁 Project Structure
+- 📦 Data Model
+- 🔥 Firebase Source Setup
+- ⚙️ ETL Pipeline
+- 🧹 Data Quality Validation
+- 📊 Analytics & Insights
+- 📈 Charts
+- ▶️ How to Run
+- ⚠️ Known Limitations
+- 🎯 Conclusion
 
 ---
 
