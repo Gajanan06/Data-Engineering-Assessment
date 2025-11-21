@@ -1,0 +1,370 @@
+[
+  {
+    "recipe_id": "r_curd_rice_0001",
+    "title": "Curd Rice",
+    "description": "Comforting curd rice for two — mildly seasoned with tempered onion, cumin and coriander.",
+    "cuisine": "Indian",
+    "difficulty": "easy",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "tags": ["comfort","vegetarian","south_indian"],
+    "ingredients": [
+      {"name":"rice","quantity":2,"unit":"bowl"},
+      {"name":"curd (yogurt)","quantity":2,"unit":"bowl"},
+      {"name":"coriander leaves","quantity":1,"unit":"bowl"},
+      {"name":"oil","quantity":3,"unit":"tsp"},
+      {"name":"salt","quantity":1,"unit":"tsp"},
+      {"name":"jeera (cumin seeds)","quantity":1,"unit":"tsp"},
+      {"name":"water","quantity":2,"unit":"litre"},
+      {"name":"onion (chopped)","quantity":0.5,"unit":"unit"}
+    ],
+    "steps": [
+      {"step_no":1,"text":"Keep all ingredients ready."},
+      {"step_no":2,"text":"Wash the rice: put rice in a vessel, add water, mix and drain until water is clear."},
+      {"step_no":3,"text":"Add rinsed rice to vessel with ~1 litre water and 1 tsp oil. Cover and cook/steam for 10-15 minutes until rice is cooked."},
+      {"step_no":4,"text":"Remove cooked rice and keep aside."},
+      {"step_no":5,"text":"Heat a pan on gas."},
+      {"step_no":6,"text":"Add 2 tsp oil to pan and heat."},
+      {"step_no":7,"text":"Add chopped onion, 1 tsp jeera and 1 tsp salt; sauté for 2-3 minutes."},
+      {"step_no":8,"text":"Add curd (2 bowls) to the pan and mix well."},
+      {"step_no":9,"text":"Add the steamed rice to the pan; mix thoroughly with a spoon."},
+      {"step_no":10,"text":"Transfer curd rice to a big bowl and add chopped coriander leaves on top."},
+      {"step_no":11,"text":"Serve warm."}
+    ],
+    "created_at":"2025-11-19T00:00:00Z",
+    "created_by":"user_gajanan"
+  },
+  {
+    "recipe_id": "r_0002",
+    "title": "Tomato Soup",
+    "description": "Simple tomato soup for two.",
+    "cuisine": "Continental",
+    "difficulty": "easy",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 2,
+    "tags": ["soup","vegetarian"],
+    "ingredients": [
+      {"name":"tomato","quantity":3,"unit":"unit"},
+      {"name":"salt","quantity":1,"unit":"tsp"},
+      {"name":"oil","quantity":1,"unit":"tbsp"}
+    ],
+    "steps": [{"step_no":1,"text":"Chop tomatoes."},{"step_no":2,"text":"Cook and blend."}]
+  },
+  {
+    "recipe_id": "r_0003",
+    "title": "Pancakes",
+    "description": "Fluffy pancakes.",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "tags": ["breakfast"],
+    "ingredients": [
+      {"name":"flour","quantity":100,"unit":"g"},
+      {"name":"milk","quantity":1,"unit":"cup"},
+      {"name":"egg","quantity":1,"unit":"unit"}
+    ],
+    "steps": [{"step_no":1,"text":"Mix batter."},{"step_no":2,"text":"Cook on pan."}]
+  },
+  {
+    "recipe_id":"r_0004",
+    "title":"Veg Biryani",
+    "description":"Simple vegetable biryani.",
+    "cuisine":"Indian",
+    "difficulty":"medium",
+    "prep_time_minutes":20,
+    "cook_time_minutes":30,
+    "total_time_minutes":50,
+    "servings":4,
+    "tags":["rice","vegetarian"],
+    "ingredients":[
+      {"name":"rice","quantity":2,"unit":"cup"},
+      {"name":"mixed vegetables","quantity":200,"unit":"g"},
+      {"name":"spice mix","quantity":1,"unit":"tbsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Prepare vegetables."},{"step_no":2,"text":"Cook rice and vegetables together."}]
+  },
+  {
+    "recipe_id":"r_0005",
+    "title":"Aloo Paratha",
+    "description":"Potato stuffed flatbread.",
+    "cuisine":"Indian",
+    "difficulty":"medium",
+    "prep_time_minutes":20,
+    "cook_time_minutes":15,
+    "total_time_minutes":35,
+    "servings":2,
+    "tags":["breakfast"],
+    "ingredients":[
+      {"name":"flour","quantity":2,"unit":"cup"},
+      {"name":"potato","quantity":2,"unit":"unit"},
+      {"name":"salt","quantity":1,"unit":"tsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Prepare dough."},{"step_no":2,"text":"Make stuffing and cook."}]
+  },
+  {
+    "recipe_id":"r_0006",
+    "title":"Masala Omelette",
+    "description":"Spicy omelette.",
+    "cuisine":"Indian",
+    "difficulty":"easy",
+    "prep_time_minutes":5,
+    "cook_time_minutes":5,
+    "total_time_minutes":10,
+    "servings":1,
+    "tags":["breakfast","quick"],
+    "ingredients":[
+      {"name":"egg","quantity":2,"unit":"unit"},
+      {"name":"onion","quantity":0.5,"unit":"unit"},
+      {"name":"salt","quantity":0.5,"unit":"tsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Beat eggs and fry."}]
+  },
+  {
+    "recipe_id":"r_0007",
+    "title":"Paneer Butter Masala",
+    "description":"Creamy paneer curry.",
+    "cuisine":"Indian",
+    "difficulty":"medium",
+    "prep_time_minutes":15,
+    "cook_time_minutes":25,
+    "total_time_minutes":40,
+    "servings":3,
+    "tags":["curry","vegetarian"],
+    "ingredients":[
+      {"name":"paneer","quantity":200,"unit":"g"},
+      {"name":"tomato","quantity":2,"unit":"unit"},
+      {"name":"butter","quantity":2,"unit":"tbsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Prepare gravy."},{"step_no":2,"text":"Add paneer and simmer."}]
+  },
+  {
+    "recipe_id":"r_0008",
+    "title":"Banana Bread",
+    "description":"Simple banana bread.",
+    "cuisine":"American",
+    "difficulty":"medium",
+    "prep_time_minutes":15,
+    "cook_time_minutes":45,
+    "total_time_minutes":60,
+    "servings":6,
+    "tags":["dessert"],
+    "ingredients":[
+      {"name":"banana","quantity":3,"unit":"unit"},
+      {"name":"flour","quantity":200,"unit":"g"},
+      {"name":"sugar","quantity":100,"unit":"g"}
+    ],
+    "steps":[{"step_no":1,"text":"Mix ingredients."},{"step_no":2,"text":"Bake."}]
+  },
+  {
+    "recipe_id":"r_0009",
+    "title":"Lemon Rice",
+    "description":"Tangy lemon rice.",
+    "cuisine":"Indian",
+    "difficulty":"easy",
+    "prep_time_minutes":10,
+    "cook_time_minutes":10,
+    "total_time_minutes":20,
+    "servings":2,
+    "tags":["rice","vegetarian"],
+    "ingredients":[
+      {"name":"rice","quantity":2,"unit":"cup"},
+      {"name":"lemon","quantity":1,"unit":"unit"},
+      {"name":"salt","quantity":1,"unit":"tsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Cook rice and add seasoning."}]
+  },
+  {
+    "recipe_id":"r_0010",
+    "title":"Dosa",
+    "description":"South Indian dosa (fermented batter assumed).",
+    "cuisine":"Indian",
+    "difficulty":"medium",
+    "prep_time_minutes":15,
+    "cook_time_minutes":20,
+    "total_time_minutes":35,
+    "servings":2,
+    "tags":["breakfast","south_indian"],
+    "ingredients":[
+      {"name":"dosa batter","quantity":2,"unit":"cup"},
+      {"name":"oil","quantity":1,"unit":"tbsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Spread batter on hot pan and cook both sides."}]
+  },
+  {
+    "recipe_id":"r_0011",
+    "title":"Idli",
+    "description":"Steamed idlis from batter.",
+    "cuisine":"Indian",
+    "difficulty":"easy",
+    "prep_time_minutes":10,
+    "cook_time_minutes":12,
+    "total_time_minutes":22,
+    "servings":4,
+    "tags":["breakfast","south_indian"],
+    "ingredients":[
+      {"name":"idli batter","quantity":2,"unit":"cup"}
+    ],
+    "steps":[{"step_no":1,"text":"Pour batter into idli moulds and steam."}]
+  },
+  {
+    "recipe_id":"r_0012",
+    "title":"Chole",
+    "description":"Spicy chickpea curry.",
+    "cuisine":"Indian",
+    "difficulty":"medium",
+    "prep_time_minutes":20,
+    "cook_time_minutes":30,
+    "total_time_minutes":50,
+    "servings":3,
+    "tags":["curry","vegetarian"],
+    "ingredients":[
+      {"name":"chickpeas","quantity":200,"unit":"g"},
+      {"name":"spice mix","quantity":1,"unit":"tbsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Cook chickpeas and add gravy."}]
+  },
+  {
+    "recipe_id":"r_0013",
+    "title":"Palak Paneer",
+    "description":"Spinach and paneer curry.",
+    "cuisine":"Indian",
+    "difficulty":"medium",
+    "prep_time_minutes":15,
+    "cook_time_minutes":25,
+    "total_time_minutes":40,
+    "servings":3,
+    "tags":["vegetarian","curry"],
+    "ingredients":[
+      {"name":"spinach","quantity":200,"unit":"g"},
+      {"name":"paneer","quantity":150,"unit":"g"}
+    ],
+    "steps":[{"step_no":1,"text":"Blanch spinach and make gravy."}]
+  },
+  {
+    "recipe_id":"r_0014",
+    "title":"Chicken Curry",
+    "description":"Simple chicken curry.",
+    "cuisine":"Indian",
+    "difficulty":"medium",
+    "prep_time_minutes":20,
+    "cook_time_minutes":30,
+    "total_time_minutes":50,
+    "servings":4,
+    "tags":["non_vegetarian","curry"],
+    "ingredients":[
+      {"name":"chicken","quantity":500,"unit":"g"},
+      {"name":"spice mix","quantity":1,"unit":"tbsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Marinate and cook chicken."}]
+  },
+  {
+    "recipe_id":"r_0015",
+    "title":"Fish Fry",
+    "description":"Crispy fish fry.",
+    "cuisine":"Indian",
+    "difficulty":"medium",
+    "prep_time_minutes":10,
+    "cook_time_minutes":10,
+    "total_time_minutes":20,
+    "servings":2,
+    "tags":["non_vegetarian"],
+    "ingredients":[
+      {"name":"fish","quantity":300,"unit":"g"},
+      {"name":"salt","quantity":1,"unit":"tsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Marinate and fry fish."}]
+  },
+  {
+    "recipe_id":"r_0016",
+    "title":"Pasta Arrabiata",
+    "description":"Spicy tomato pasta.",
+    "cuisine":"Italian",
+    "difficulty":"easy",
+    "prep_time_minutes":10,
+    "cook_time_minutes":15,
+    "total_time_minutes":25,
+    "servings":2,
+    "tags":["pasta","vegetarian"],
+    "ingredients":[
+      {"name":"pasta","quantity":200,"unit":"g"},
+      {"name":"tomato","quantity":3,"unit":"unit"}
+    ],
+    "steps":[{"step_no":1,"text":"Boil pasta and add sauce."}]
+  },
+  {
+    "recipe_id":"r_0017",
+    "title":"Ratatouille",
+    "description":"Vegetable stew.",
+    "cuisine":"French",
+    "difficulty":"medium",
+    "prep_time_minutes":15,
+    "cook_time_minutes":30,
+    "total_time_minutes":45,
+    "servings":3,
+    "tags":["vegetarian"],
+    "ingredients":[
+      {"name":"zucchini","quantity":1,"unit":"unit"},
+      {"name":"eggplant","quantity":1,"unit":"unit"}
+    ],
+    "steps":[{"step_no":1,"text":"Layer vegetables and bake or simmer."}]
+  },
+  {
+    "recipe_id":"r_0018",
+    "title":"Greek Salad",
+    "description":"Fresh salad with feta.",
+    "cuisine":"Greek",
+    "difficulty":"easy",
+    "prep_time_minutes":10,
+    "cook_time_minutes":0,
+    "total_time_minutes":10,
+    "servings":2,
+    "tags":["salad","vegetarian"],
+    "ingredients":[
+      {"name":"cucumber","quantity":1,"unit":"unit"},
+      {"name":"feta","quantity":50,"unit":"g"}
+    ],
+    "steps":[{"step_no":1,"text":"Chop and mix all ingredients."}]
+  },
+  {
+    "recipe_id":"r_0019",
+    "title":"Mango Lassi",
+    "description":"Sweet mango yogurt drink.",
+    "cuisine":"Indian",
+    "difficulty":"easy",
+    "prep_time_minutes":5,
+    "cook_time_minutes":0,
+    "total_time_minutes":5,
+    "servings":2,
+    "tags":["drink","dessert"],
+    "ingredients":[
+      {"name":"mango","quantity":1,"unit":"unit"},
+      {"name":"yogurt","quantity":1,"unit":"cup"}
+    ],
+    "steps":[{"step_no":1,"text":"Blend mango and yogurt with sugar."}]
+  },
+  {
+    "recipe_id":"r_0020",
+    "title":"Curry Leaf Rice",
+    "description":"Simple curry leaf seasoned rice.",
+    "cuisine":"Indian",
+    "difficulty":"easy",
+    "prep_time_minutes":10,
+    "cook_time_minutes":10,
+    "total_time_minutes":20,
+    "servings":2,
+    "tags":["rice","south_indian"],
+    "ingredients":[
+      {"name":"rice","quantity":2,"unit":"cup"},
+      {"name":"curry leaves","quantity":10,"unit":"leaf"},
+      {"name":"oil","quantity":1,"unit":"tbsp"}
+    ],
+    "steps":[{"step_no":1,"text":"Cook rice and temper with curry leaves."}]
+  }
+]

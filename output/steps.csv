@@ -1,0 +1,37 @@
+recipe_id,step_no,text
+r_curd_rice_0001,1,Keep all ingredients ready.
+r_curd_rice_0001,2,"Wash the rice: put rice in a vessel, add water, mix and drain until water is clear."
+r_curd_rice_0001,3,Add rinsed rice to vessel with ~1 litre water and 1 tsp oil. Cover and cook/steam for 10-15 minutes until rice is cooked.
+r_curd_rice_0001,4,Remove cooked rice and keep aside.
+r_curd_rice_0001,5,Heat a pan on gas.
+r_curd_rice_0001,6,Add 2 tsp oil to pan and heat.
+r_curd_rice_0001,7,"Add chopped onion, 1 tsp jeera and 1 tsp salt; sautÃ© for 2-3 minutes."
+r_curd_rice_0001,8,Add curd (2 bowls) to the pan and mix well.
+r_curd_rice_0001,9,Add the steamed rice to the pan; mix thoroughly with a spoon.
+r_curd_rice_0001,10,Transfer curd rice to a big bowl and add chopped coriander leaves on top.
+r_curd_rice_0001,11,Serve warm.
+r_0002,1,Chop tomatoes.
+r_0002,2,Cook and blend.
+r_0003,1,Mix batter.
+r_0003,2,Cook on pan.
+r_0004,1,Prepare vegetables.
+r_0004,2,Cook rice and vegetables together.
+r_0005,1,Prepare dough.
+r_0005,2,Make stuffing and cook.
+r_0006,1,Beat eggs and fry.
+r_0007,1,Prepare gravy.
+r_0007,2,Add paneer and simmer.
+r_0008,1,Mix ingredients.
+r_0008,2,Bake.
+r_0009,1,Cook rice and add seasoning.
+r_0010,1,Spread batter on hot pan and cook both sides.
+r_0011,1,Pour batter into idli moulds and steam.
+r_0012,1,Cook chickpeas and add gravy.
+r_0013,1,Blanch spinach and make gravy.
+r_0014,1,Marinate and cook chicken.
+r_0015,1,Marinate and fry fish.
+r_0016,1,Boil pasta and add sauce.
+r_0017,1,Layer vegetables and bake or simmer.
+r_0018,1,Chop and mix all ingredients.
+r_0019,1,Blend mango and yogurt with sugar.
+r_0020,1,Cook rice and temper with curry leaves.

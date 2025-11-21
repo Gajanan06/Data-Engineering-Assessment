@@ -1,0 +1,21 @@
+recipe_id,title,description,cuisine,difficulty,prep_time_minutes,cook_time_minutes,total_time_minutes,servings,tags
+r_curd_rice_0001,Curd Rice,"Comforting curd rice for two â€” mildly seasoned with tempered onion, cumin and coriander.",Indian,easy,10,15,25,2,comfort|vegetarian|south_indian
+r_0002,Tomato Soup,Simple tomato soup for two.,Continental,easy,10,20,30,2,soup|vegetarian
+r_0003,Pancakes,Fluffy pancakes.,American,easy,10,15,25,2,breakfast
+r_0004,Veg Biryani,Simple vegetable biryani.,Indian,medium,20,30,50,4,rice|vegetarian
+r_0005,Aloo Paratha,Potato stuffed flatbread.,Indian,medium,20,15,35,2,breakfast
+r_0006,Masala Omelette,Spicy omelette.,Indian,easy,5,5,10,1,breakfast|quick
+r_0007,Paneer Butter Masala,Creamy paneer curry.,Indian,medium,15,25,40,3,curry|vegetarian
+r_0008,Banana Bread,Simple banana bread.,American,medium,15,45,60,6,dessert
+r_0009,Lemon Rice,Tangy lemon rice.,Indian,easy,10,10,20,2,rice|vegetarian
+r_0010,Dosa,South Indian dosa (fermented batter assumed).,Indian,medium,15,20,35,2,breakfast|south_indian
+r_0011,Idli,Steamed idlis from batter.,Indian,easy,10,12,22,4,breakfast|south_indian
+r_0012,Chole,Spicy chickpea curry.,Indian,medium,20,30,50,3,curry|vegetarian
+r_0013,Palak Paneer,Spinach and paneer curry.,Indian,medium,15,25,40,3,vegetarian|curry
+r_0014,Chicken Curry,Simple chicken curry.,Indian,medium,20,30,50,4,non_vegetarian|curry
+r_0015,Fish Fry,Crispy fish fry.,Indian,medium,10,10,20,2,non_vegetarian
+r_0016,Pasta Arrabiata,Spicy tomato pasta.,Italian,easy,10,15,25,2,pasta|vegetarian
+r_0017,Ratatouille,Vegetable stew.,French,medium,15,30,45,3,vegetarian
+r_0018,Greek Salad,Fresh salad with feta.,Greek,easy,10,0,10,2,salad|vegetarian
+r_0019,Mango Lassi,Sweet mango yogurt drink.,Indian,easy,5,0,5,2,drink|dessert
+r_0020,Curry Leaf Rice,Simple curry leaf seasoned rice.,Indian,easy,10,10,20,2,rice|south_indian

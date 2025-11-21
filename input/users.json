@@ -1,0 +1,82 @@
+[
+  {
+    "user_id": "user_100",
+    "name": "Gajanan Nilajkar",
+    "email": "gajanan.nilajkar@example.com"
+  },
+  {
+    "user_id": "user_101",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com"
+  },
+  {
+    "user_id": "user_102",
+    "name": "Amit Verma",
+    "email": "amit.verma@example.com"
+  },
+  {
+    "user_id": "user_103",
+    "name": "Sneha Kulkarni",
+    "email": "sneha.kulkarni@example.com"
+  },
+  {
+    "user_id": "user_104",
+    "name": "Vikram Patil",
+    "email": "vikram.patil@example.com"
+  },
+  {
+    "user_id": "user_105",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com"
+  },
+  {
+    "user_id": "user_106",
+    "name": "Karan Joshi",
+    "email": "karan.joshi@example.com"
+  },
+  {
+    "user_id": "user_107",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@example.com"
+  },
+  {
+    "user_id": "user_108",
+    "name": "Sahil Deshmukh",
+    "email": "sahil.deshmukh@example.com"
+  },
+  {
+    "user_id": "user_109",
+    "name": "Divya Menon",
+    "email": "divya.menon@example.com"
+  },
+  {
+    "user_id": "user_110",
+    "name": "Rahul Gupta",
+    "email": "rahul.gupta@example.com"
+  },
+  {
+    "user_id": "user_111",
+    "name": "Shreya Bhat",
+    "email": "shreya.bhat@example.com"
+  },
+  {
+    "user_id": "user_112",
+    "name": "Nikhil Jain",
+    "email": "nikhil.jain@example.com"
+  },
+  {
+    "user_id": "user_113",
+    "name": "Aarohi Singh",
+    "email": "aarohi.singh@example.com"
+  },
+  {
+    "user_id": "user_114",
+    "name": "Manoj Kumar",
+    "email": "manoj.kumar@example.com"
+  },
+  {
+    "user_id": "user_115",
+    "name": "Tanya Kapoor",
+    "email": "tanya.kapoor@example.com"
+  }
+]

@@ -1,0 +1,55 @@
+ingredient_id,recipe_id,name,quantity,unit
+r_curd_rice_0001_ing_1,r_curd_rice_0001,rice,2.0,bowl
+r_curd_rice_0001_ing_2,r_curd_rice_0001,curd (yogurt),2.0,bowl
+r_curd_rice_0001_ing_3,r_curd_rice_0001,coriander leaves,1.0,bowl
+r_curd_rice_0001_ing_4,r_curd_rice_0001,oil,3.0,tsp
+r_curd_rice_0001_ing_5,r_curd_rice_0001,salt,1.0,tsp
+r_curd_rice_0001_ing_6,r_curd_rice_0001,jeera (cumin seeds),1.0,tsp
+r_curd_rice_0001_ing_7,r_curd_rice_0001,water,2.0,litre
+r_curd_rice_0001_ing_8,r_curd_rice_0001,onion (chopped),0.5,unit
+r_0002_ing_1,r_0002,tomato,3.0,unit
+r_0002_ing_2,r_0002,salt,1.0,tsp
+r_0002_ing_3,r_0002,oil,1.0,tbsp
+r_0003_ing_1,r_0003,flour,100.0,g
+r_0003_ing_2,r_0003,milk,1.0,cup
+r_0003_ing_3,r_0003,egg,1.0,unit
+r_0004_ing_1,r_0004,rice,2.0,cup
+r_0004_ing_2,r_0004,mixed vegetables,200.0,g
+r_0004_ing_3,r_0004,spice mix,1.0,tbsp
+r_0005_ing_1,r_0005,flour,2.0,cup
+r_0005_ing_2,r_0005,potato,2.0,unit
+r_0005_ing_3,r_0005,salt,1.0,tsp
+r_0006_ing_1,r_0006,egg,2.0,unit
+r_0006_ing_2,r_0006,onion,0.5,unit
+r_0006_ing_3,r_0006,salt,0.5,tsp
+r_0007_ing_1,r_0007,paneer,200.0,g
+r_0007_ing_2,r_0007,tomato,2.0,unit
+r_0007_ing_3,r_0007,butter,2.0,tbsp
+r_0008_ing_1,r_0008,banana,3.0,unit
+r_0008_ing_2,r_0008,flour,200.0,g
+r_0008_ing_3,r_0008,sugar,100.0,g
+r_0009_ing_1,r_0009,rice,2.0,cup
+r_0009_ing_2,r_0009,lemon,1.0,unit
+r_0009_ing_3,r_0009,salt,1.0,tsp
+r_0010_ing_1,r_0010,dosa batter,2.0,cup
+r_0010_ing_2,r_0010,oil,1.0,tbsp
+r_0011_ing_1,r_0011,idli batter,2.0,cup
+r_0012_ing_1,r_0012,chickpeas,200.0,g
+r_0012_ing_2,r_0012,spice mix,1.0,tbsp
+r_0013_ing_1,r_0013,spinach,200.0,g
+r_0013_ing_2,r_0013,paneer,150.0,g
+r_0014_ing_1,r_0014,chicken,500.0,g
+r_0014_ing_2,r_0014,spice mix,1.0,tbsp
+r_0015_ing_1,r_0015,fish,300.0,g
+r_0015_ing_2,r_0015,salt,1.0,tsp
+r_0016_ing_1,r_0016,pasta,200.0,g
+r_0016_ing_2,r_0016,tomato,3.0,unit
+r_0017_ing_1,r_0017,zucchini,1.0,unit
+r_0017_ing_2,r_0017,eggplant,1.0,unit
+r_0018_ing_1,r_0018,cucumber,1.0,unit
+r_0018_ing_2,r_0018,feta,50.0,g
+r_0019_ing_1,r_0019,mango,1.0,unit
+r_0019_ing_2,r_0019,yogurt,1.0,cup
+r_0020_ing_1,r_0020,rice,2.0,cup
+r_0020_ing_2,r_0020,curry leaves,10.0,leaf
+r_0020_ing_3,r_0020,oil,1.0,tbsp
