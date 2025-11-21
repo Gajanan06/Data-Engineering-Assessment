@@ -3,7 +3,7 @@
   <img src="https://img.icons8.com/color/96/cookbook.png" alt="Project Logo"/>
 </p>
 
-<h1 align="center">Firestore Recipe Analytics Pipeline</h1>
+<h1 align="center">Firebase Recipe Analytics Pipeline</h1>
 
 <p align="center">
   📘 Recipe Analytics Pipeline  
