@@ -17,15 +17,16 @@
 - [🚀 Project Overview](#project-overview)
 - [🏗 Architecture](#architecture)
 - [📁 Project Structure](#project-structure)
-- [📦 Data Model](#data-model)
-- [🔥 Firebase Source Setup](#firebase-source-setup)
-- [⚙️ ETL Pipeline](#etl-pipeline)
-- [🧹 Data Quality Validation](#data-quality-validation)
-- [📊 Analytics & Insights](#analytics--insights)
+- [📦 Data Model](#1-data-model-overview)
+- [🔥 Firebase Source Setup](#2-firebase-source-setup)
+- [⚙️ ETL Pipeline](#3-etl-pipeline)
+- [🧹 Data Quality Validation](#4-data-quality-validation)
+- [📊 Analytics & Insights](#5-analytics--insights)
 - [📈 Charts](#charts)
 - [▶️ How to Run](#how-to-run)
 - [⚠️ Known Limitations](#known-limitations)
 - [🎯 Conclusion](#conclusion)
+
 
 
 
