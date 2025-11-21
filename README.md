@@ -124,7 +124,7 @@ Data Engineering Assessment Folder
 - steps[]  
 - created_at, created_by  
 
-### 👥 Users (Synthetic)
+### 👥 Users
 User IDs: `user_100` → `user_115`
 
 ### ⭐ User Interactions
@@ -155,7 +155,8 @@ Uploaded to Firestore:
 
 ---
 
-## 📈 Screenshots 
+## 📸 Screenshots
+
 Available in `/screenshots/`:
 
 - recipes_collection.png  
@@ -268,22 +269,30 @@ Available in `/charts/`:
 
 ### 🧪 6. How to Run the Pipeline
 
-1️⃣ Install Dependencies
+1️⃣ Install Dependencies -
+
       pip install -r requirements.txt
 
-
-      Or manually:
+    or manually 
 
       pip install pandas firebase-admin matplotlib
 
-2️⃣ Run ETL
+2️⃣ Run ETL - 
+
       python scripts/etl_transform.py
 
-3️⃣ Run Validation
+3️⃣ Run Validation -
+
       python scripts/validator.py
 
-4️⃣ Run Analytics
+4️⃣ Run Analytics -
+
       python scripts/analytics.py
+
+5️⃣ Run Analytics -
+
+      python scripts/analytics_charts.py
+
 
 
 Charts saved in `/charts`.
