@@ -13,21 +13,18 @@
 
 ---
 
-## 📑 Table of Contents
-- [🚀 Project Overview](#project-overview)
-- [🏗 Architecture](#architecture)
-- [📁 Project Structure](#project-structure)
-- [📦 Data Model](#1-data-model-overview)
-- [🔥 Firebase Source Setup](#2-firebase-source-setup)
-- [📸 Screenshots](#screenshots)
-- [⚙️ ETL Pipeline](#3-etl-pipeline)
-- [🧹 Data Quality Validation](#4-data-quality-validation)
-- [📊 Analytics & Insights](#5-analytics--insights)
-- [📈 Charts](#charts)
-- [▶️ How to Run](#how-to-run)
-- [⚠️ Known Limitations](#known-limitations)
-- [🎯 Conclusion](#conclusion)
+## DEBUG — Anchor Test
 
+[(Test) Project Overview](#project-overview)  
+[(Test) Data Model](#1-data-model-overview)  
+[(Test) Firebase](#2-firebase-source-setup)  
+[(Test) ETL](#3-etl-pipeline)  
+[(Test) Validation](#4-data-quality-validation)  
+[(Test) Analytics](#5-analytics--insights)  
+[(Test) Charts](#charts)  
+[(Test) Run](#how-to-run)  
+[(Test) Limitations](#known-limitations)  
+[(Test) Conclusion](#conclusion)
 
 ---
 
