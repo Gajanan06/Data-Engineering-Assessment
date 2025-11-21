@@ -14,18 +14,19 @@
 ---
 
 ## 📑 Table of Contents
-- [🚀 Project Overview](#-project-overview)
-- [🏗 Architecture](#-architecture)
-- [📁 Project Structure](#-project-structure)
-- [📦 Data Model](#-data-model)
-- [🔥 Firebase Source Setup](#-firebase-source-setup)
-- [⚙️ ETL Pipeline](#-etl-pipeline)
-- [🧹 Data Quality Validation](#-data-quality-validation)
-- [📊 Analytics & Insights](#-analytics--insights)
-- [📈 Charts](#-charts)
-- [▶️ How to Run](#-how-to-run)
-- [⚠️ Known Limitations](#-known-limitations)
-- [🎯 Conclusion](#-conclusion)
+- [🚀 Project Overview](#project-overview)
+- [🏗 Architecture](#architecture)
+- [📁 Project Structure](#project-structure)
+- [📦 Data Model](#data-model)
+- [🔥 Firebase Source Setup](#firebase-source-setup)
+- [⚙️ ETL Pipeline](#etl-pipeline)
+- [🧹 Data Quality Validation](#data-quality-validation)
+- [📊 Analytics & Insights](#analytics--insights)
+- [📈 Charts](#charts)
+- [▶️ How to Run](#how-to-run)
+- [⚠️ Known Limitations](#known-limitations)
+- [🎯 Conclusion](#conclusion)
+
 
 
 ---
