@@ -3,7 +3,7 @@
   <img src="https://img.icons8.com/color/96/cookbook.png" alt="Project Logo"/>
 </p>
 
-<h1 align="center">Data Engineering Assessment — ThinkBridge</h1>
+<h1 align="center">Data Engineering Assessment — ThinkSchool</h1>
 
 <p align="center">
   📘 Recipe Analytics Pipeline  
@@ -44,6 +44,8 @@ The goal is to build an end-to-end pipeline from source data to insights.
 
 ## 🏗 Architecture
 
+```bash
+
 Sample Data
 ↓
 Firebase Firestore
@@ -64,6 +66,9 @@ Charts
 ---
 
 ## 📁 Project Structure
+
+```bash
+
 Data Engineering Assessment Folder
 │
 ├── input/                     → Raw JSON files (recipes, interactions, users)
@@ -147,6 +152,16 @@ Uploaded to Firestore:
 | recipes        | Recipe data                 |
 | interactions   | User engagement events      |
 | users          | Synthetic users             |
+
+---
+
+## 📈 Screenshots 
+Available in `/screenshots/`:
+
+- recipes_collection.png  
+- recipe_extended.png  
+- interactions_collection.png  
+- users_collection.png  
 
 ---
 
