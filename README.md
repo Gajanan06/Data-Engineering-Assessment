@@ -61,7 +61,7 @@ Data Validation
 Analytics & Insights
 ↓
 Charts
-
+```
 
 ---
 
@@ -105,7 +105,7 @@ Data Engineering Assessment Folder
 │
 ├── README.md                  → Project documentation
 └── .gitignore
-
+```
 
 ---
 
@@ -266,7 +266,7 @@ Available in `/charts/`:
 
 ## ▶️ How to Run
 
-### 1️⃣ Install Dependencies
+### 🧪 6. How to Run the Pipeline
 
 1️⃣ Install Dependencies
       pip install -r requirements.txt
