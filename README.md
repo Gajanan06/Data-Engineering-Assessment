@@ -27,9 +27,6 @@
 - [⚠️ Known Limitations](#known-limitations)
 - [🎯 Conclusion](#conclusion)
 
-
-
-
 ---
 
 ## 🚀 Project Overview
