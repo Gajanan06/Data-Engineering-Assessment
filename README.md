@@ -69,7 +69,6 @@ Charts
 ## 📁 Project Structure
 
 ```bash
-
 Data Engineering Assessment Folder
 │
 ├── input/                     → Raw JSON files (recipes, interactions, users)
@@ -85,26 +84,27 @@ Data Engineering Assessment Folder
 │   └── validation_report.txt
 │
 ├── scripts/                   → All Python scripts for the pipeline
-│   ├── upload_to_firestore.py     → Upload JSON files to Firestore
-│   ├── export_firestore.py        → Export Firestore data (manual export)
-│   ├── etl_transform.py           → Transform JSON → normalized CSV
-│   ├── validator.py               → Data Quality Validation
-│   ├── analytics.py               → Analytics insights summary
-│   └── analytics_charts.py        → Generates visualization charts
+│   ├── upload_to_firestore.py       → Upload JSON files to Firestore
+│   ├── export_firestore.py          → Export Firestore data (manual export)
+│   ├── etl_transform.py             → Transform JSON → normalized CSV
+│   ├── validator.py                 → Data Quality Validation
+│   ├── analytics.py                 → Analytics insights summary
+│   └── analytics_charts.py          → Generates visualization charts
 │
-├── screenshots/               → Firestore UI screenshots
+├── screenshots/                → Firestore UI screenshots
 │   ├── recipes_collection.png
 │   ├── interactions_collection.png
 │   ├── users_collection.png
 │   └── recipe_expanded.png
 │
-├── charts/                    → Visualization charts
+├── charts/                     → Visualization charts
 │   ├── difficulty_distribution.png
 │   ├── top_ingredients.png
 │   ├── most_viewed.png
 │   └── most_liked.png
 │
-├── README.md                  → Project documentation
+├── requirements.txt            → Python dependencies for running the pipeline
+├── README.md                   → Project documentation
 └── .gitignore
 ```
 
@@ -274,7 +274,7 @@ Available in `/charts/`:
 
       pip install -r requirements.txt
 
-    or manually 
+or manually 
 
       pip install pandas firebase-admin matplotlib
 
