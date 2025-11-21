@@ -19,6 +19,7 @@
 - [📁 Project Structure](#project-structure)
 - [📦 Data Model](#1-data-model-overview)
 - [🔥 Firebase Source Setup](#2-firebase-source-setup)
+- [📸 Screenshots](#screenshots)
 - [⚙️ ETL Pipeline](#3-etl-pipeline)
 - [🧹 Data Quality Validation](#4-data-quality-validation)
 - [📊 Analytics & Insights](#5-analytics--insights)
@@ -26,6 +27,7 @@
 - [▶️ How to Run](#how-to-run)
 - [⚠️ Known Limitations](#known-limitations)
 - [🎯 Conclusion](#conclusion)
+
 
 ---
 
