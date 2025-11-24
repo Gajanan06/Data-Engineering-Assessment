@@ -314,7 +314,7 @@ This project demonstrates a full end-to-end **Data Engineering workflow**, inclu
 - ETL Pipeline  
 - Data Validation  
 - Analytics & Visualizations  
-- Final Documentation  
+- Final Documentation.  
 
 
 
