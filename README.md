@@ -1,35 +1,32 @@
 <!-- PROJECT HEADER -->
-<p align="center">
-  <img src="https://img.icons8.com/color/96/cookbook.png" alt="Project Logo"/>
-</p>
 
 <h1 align="center">Firebase Recipe Analytics Pipeline</h1>
 
 <p align="center">
-  📘 Recipe Analytics Pipeline  
+   Recipe Analytics Pipeline  
   Firebase → ETL → Validation → Analytics → Charts  
   <br/>
 </p>
 
 ---
 
-## 📑 Table of Contents
-- 🚀 Project Overview
-- 🏗 Architecture
-- 📁 Project Structure
-- 📦 Data Model
-- 🔥 Firebase Source Setup
-- ⚙️ ETL Pipeline
-- 🧹 Data Quality Validation
-- 📊 Analytics & Insights
-- 📈 Charts
-- ▶️ How to Run
-- ⚠️ Known Limitations
-- 🎯 Conclusion
+## Table of Contents
+- Project Overview
+- Architecture
+- Project Structure
+- Data Model
+- Firebase Source Setup
+- ETL Pipeline
+- Data Quality Validation
+- Analytics & Insights
+- Charts
+- How to Run
+- Known Limitations
+- Conclusion
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 This project implements a complete **Data Engineering Pipeline** using:
 
 - Firebase Firestore  
@@ -42,7 +39,7 @@ The goal is to build an end-to-end pipeline from source data to insights.
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ```bash
 
@@ -65,7 +62,7 @@ Charts
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 Data Engineering Assessment Folder
@@ -109,9 +106,9 @@ Data Engineering Assessment Folder
 
 ---
 
-## 📦 1. Data Model Overview
+## 1. Data Model Overview
 
-### 📌 Recipe Entity
+### Recipe Entity
 - recipe_id  
 - title, description  
 - cuisine, difficulty  
@@ -124,10 +121,10 @@ Data Engineering Assessment Folder
 - steps[]  
 - created_at, created_by  
 
-### 👥 Users
+### Users
 User IDs: `user_100` → `user_115`
 
-### ⭐ User Interactions
+### User Interactions
 - interaction_id  
 - user_id  
 - recipe_id  
@@ -137,7 +134,7 @@ User IDs: `user_100` → `user_115`
 
 ---
 
-## 🔥 2. Firebase Source Setup
+## 2. Firebase Source Setup
 
 Uploaded to Firestore:
 
@@ -155,7 +152,7 @@ Uploaded to Firestore:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Available in `/screenshots/`:
 
@@ -166,7 +163,7 @@ Available in `/screenshots/`:
 
 ---
 
-## ⚙️ 3. ETL Pipeline
+## 3. ETL Pipeline
 
 Firestore export requires billing → **Manual JSON export used**.
 
@@ -186,31 +183,31 @@ Scripts:
 
 ---
 
-## 🧹 4. Data Quality Validation
+## 4. Data Quality Validation
 
 Performed using `validator.py`.
 
-### ✔ Recipe Rules
+### Recipe Rules
 - Required fields present  
 - Difficulty ∈ {easy, medium, hard}  
 - Positive numeric values  
 - Non-empty ingredients and steps  
 
-### ✔ Interaction Rules
+### Interaction Rules
 - Valid type  
 - Rating 1–5  
 - Timestamp exists  
 
 ### Validation Results
-- ✅ All 20 recipes valid  
-- ✅ All 180 interactions valid  
+- All 20 recipes valid  
+- All 180 interactions valid  
 
 Full report:  
 `output/validation_report.txt`
 
 ---
 
-## 📊 5. Analytics & Insights
+## 5. Analytics & Insights
 
 ### 1️⃣ Most Common Ingredients
 - Salt (6)  
@@ -220,7 +217,7 @@ Full report:
 - Flour (3)  
 
 ### 2️⃣ Average Preparation Time  
-👉 **12.75 minutes**
+ **12.75 minutes**
 
 ### 3️⃣ Difficulty Distribution  
 - Easy: 10  
@@ -255,7 +252,7 @@ Low engagement.
 
 ---
 
-## 📈 Charts  
+## Charts  
 Available in `/charts/`:
 
 - difficulty_distribution.png  
@@ -265,9 +262,9 @@ Available in `/charts/`:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
-### 🧪 6. How to Run the Pipeline
+### 6. How to Run the Pipeline
 
 1️⃣ Install Dependencies -
 
@@ -299,14 +296,14 @@ Charts saved in `/charts`.
 
 ---
 
-## 🚫 Known Limitations
+## Known Limitations
 - Firestore export not used due to billing restrictions  
 - Synthetic data may not fully reflect real trends  
 - Timestamps are artificial  
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 This project demonstrates a full end-to-end **Data Engineering workflow**, including:
 
 - Data Modeling  
