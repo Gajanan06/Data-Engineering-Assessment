@@ -138,9 +138,9 @@ User IDs: `user_100` → `user_115`
 
 Uploaded to Firestore:
 
-- ✔ Your recipe (Curd Rice)  
-- ✔ 20 synthetic recipes  
-- ✔ 150+ user interactions  
+- Your recipe (Curd Rice)  
+- 20 synthetic recipes  
+- 150+ user interactions  
 
 ### Collections Used
 
